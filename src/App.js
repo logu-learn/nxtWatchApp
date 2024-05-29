@@ -6,7 +6,7 @@ import Home from './components/Home'
 import VideoDetailView from './components/VideoDetailView'
 import TrendingVideos from './components/TrendingVideos'
 import GamingVideos from './components/GamingVideos'
-import {SavedVideos} from './components/SavedVideos'
+import SavedVideos from './components/SavedVideos'
 import NotFound from './components/NotFound'
 
 import ThemeAndVideoContext from './context/ThemeAndVideoContext'
